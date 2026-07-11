@@ -3,16 +3,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>HD Multiservicios</title>
-  <style>
-    body { font-family: Arial; background: #f5f5f5; color: #333; }
-    header { background: #004d40; color: white; padding: 20px; text-align: center; }
-    section { margin: 20px; padding: 20px; background: white; border-radius: 8px; }
-    h2 { color: #004d40; }
-    footer { text-align: center; padding: 10px; background: #eee; }
-  </style>
-</head>
-<body>
+
   <header>
     <h1>HD Multiservicios</h1>
     <p>Soluciones integrales para tu hogar y empresa</p>
