@@ -22,7 +22,7 @@
   <nav>
     <a href="#hogar">Hogar</a>
     <a href="#empresa">Empresa</a>
-    <a href="#digital">Servicios Digitales</a>
+  
     <a href="#contacto">Contacto</a>
   </nav>
 
@@ -43,16 +43,6 @@
       <li>Reformas y acondicionamiento</li>
       <li>Seguridad y cámaras</li>
       <li>Limpieza profesional</li>
-    </ul>
-  </section>
-
-  <section id="digital">
-    <h2>Servicios Digitales</h2>
-    <ul>
-      <li>Diseño web</li>
-      <li>Marketing digital</li>
-      <li>Soporte técnico</li>
-      <li>Gestión de redes sociales</li>
     </ul>
   </section>
 
