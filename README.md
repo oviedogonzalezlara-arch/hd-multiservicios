@@ -22,7 +22,6 @@
   <nav>
     <a href="#hogar">Hogar</a>
     <a href="#empresa">Empresa</a>
-  
     <a href="#contacto">Contacto</a>
   </nav>
 
